@@ -20,7 +20,7 @@
                 ExpirationDate = DateTime.Now.AddDays(10),
                 productWeight = 0.7
             };
-            var card = new Products
+            var card = new NotShippableProduct
             {
                 Name = "Scratch Card",
                 Price = 200,

@@ -83,9 +83,9 @@
               "Title": "Checkout.cs",
               "DocumentMoniker": "D:\\Data [Yomna]\\Software Engineer\\FawryECommerceTask\\FawryECommerceTask\\Checkout.cs",
               "RelativeDocumentMoniker": "FawryECommerceTask\\Checkout.cs",
-              "ToolTip": "D:\\Data [Yomna]\\Software Engineer\\FawryECommerceTask\\FawryECommerceTask\\Checkout.cs*",
-              "RelativeToolTip": "FawryECommerceTask\\Checkout.cs*",
-              "ViewState": "AgIAADcAAAAAAAAAAAAmwEAAAAAsAAAAAAAAAA==",
+              "ToolTip": "D:\\Data [Yomna]\\Software Engineer\\FawryECommerceTask\\FawryECommerceTask\\Checkout.cs",
+              "RelativeToolTip": "FawryECommerceTask\\Checkout.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwEAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-05T06:53:28.125Z",
               "EditorCaption": ""
@@ -190,10 +190,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
