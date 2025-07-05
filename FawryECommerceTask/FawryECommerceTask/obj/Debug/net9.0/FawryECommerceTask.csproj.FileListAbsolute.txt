@@ -1,0 +1,14 @@
+D:\Data [Yomna]\Software Engineer\FawryECommerceTask\FawryECommerceTask\bin\Debug\net9.0\FawryECommerceTask.exe
+D:\Data [Yomna]\Software Engineer\FawryECommerceTask\FawryECommerceTask\bin\Debug\net9.0\FawryECommerceTask.deps.json
+D:\Data [Yomna]\Software Engineer\FawryECommerceTask\FawryECommerceTask\bin\Debug\net9.0\FawryECommerceTask.runtimeconfig.json
+D:\Data [Yomna]\Software Engineer\FawryECommerceTask\FawryECommerceTask\bin\Debug\net9.0\FawryECommerceTask.dll
+D:\Data [Yomna]\Software Engineer\FawryECommerceTask\FawryECommerceTask\bin\Debug\net9.0\FawryECommerceTask.pdb
+D:\Data [Yomna]\Software Engineer\FawryECommerceTask\FawryECommerceTask\obj\Debug\net9.0\FawryECommerceTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data [Yomna]\Software Engineer\FawryECommerceTask\FawryECommerceTask\obj\Debug\net9.0\FawryECommerceTask.AssemblyInfoInputs.cache
+D:\Data [Yomna]\Software Engineer\FawryECommerceTask\FawryECommerceTask\obj\Debug\net9.0\FawryECommerceTask.AssemblyInfo.cs
+D:\Data [Yomna]\Software Engineer\FawryECommerceTask\FawryECommerceTask\obj\Debug\net9.0\FawryECommerceTask.csproj.CoreCompileInputs.cache
+D:\Data [Yomna]\Software Engineer\FawryECommerceTask\FawryECommerceTask\obj\Debug\net9.0\FawryECommerceTask.dll
+D:\Data [Yomna]\Software Engineer\FawryECommerceTask\FawryECommerceTask\obj\Debug\net9.0\refint\FawryECommerceTask.dll
+D:\Data [Yomna]\Software Engineer\FawryECommerceTask\FawryECommerceTask\obj\Debug\net9.0\FawryECommerceTask.pdb
+D:\Data [Yomna]\Software Engineer\FawryECommerceTask\FawryECommerceTask\obj\Debug\net9.0\FawryECommerceTask.genruntimeconfig.cache
+D:\Data [Yomna]\Software Engineer\FawryECommerceTask\FawryECommerceTask\obj\Debug\net9.0\ref\FawryECommerceTask.dll
